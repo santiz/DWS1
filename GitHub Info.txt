@@ -1,4 +1,0 @@
-https://github.com/santiz/dws1/tree/gh-pages
-
-http://santiz.github.io/dws1/element_definitions
-http://santiz.github.io/dws1/shrimpscampi_recipe
