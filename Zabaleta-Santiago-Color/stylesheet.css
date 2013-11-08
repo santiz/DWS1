@@ -1,0 +1,19 @@
+body {
+	background-color:rgb(255,116,0);
+		} /* background color to orange */
+h1, h2, h3 {
+	background-color:hsla(120,60%,80%,0.3);
+	font-family: Arial;
+	color: white;
+		} /* Changes the Headers Font/Background color */
+		
+p 	{
+	color:#ffe595;
+	} /* Changes Nav. Section color */
+#list {
+	background-color:hsl(55,50%,50%);;
+	
+	} /* Changes List Color*/
+#title {
+	background-color:#FFCF73;
+} /* Duplicates the color to make it brighter for title */
