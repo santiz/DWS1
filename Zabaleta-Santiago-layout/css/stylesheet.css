@@ -1,0 +1,69 @@
+body {
+	background-color:rgb(255,116,0);
+	font-family: 'Open Sans', sans-serif;
+    font-size: 1.125em;
+    font-weight: normal;
+    width:80%;
+	height:auto;
+	padding:10px 40px ;
+	border:3px solid brown;
+	border-radius: 25px;
+	box-shadow: 2px 2px 5px #000000;
+	margin:0 auto;
+    margin-left: auto;
+	margin-right: auto;
+	
+		} /* background color to orange */
+h1, h2, h3  {
+	background-color:hsla(120,60%,80%,0.3);
+	font-family: Arial;
+	color: white;
+	text-shadow: 2px 2px 2px #aaa;
+	font-style: italic;
+	text-transform:uppercase;
+	overflow: auto;
+		} /* Changes the Headers Font/Background color */
+.column1 {
+	
+	overflow: auto;
+	width:48%;
+	float: left;
+	margin: 1%;
+	clear: left;
+	}
+	
+ .column2 {
+ 	overflow: auto;
+	width:48%;
+	float: right;
+	margin: 1%;
+	clear: right;
+	}
+
+			
+		
+p 	{
+	display:block;
+	color:#ffe595;
+	line-height:130%;
+	word-spacing:05px;
+	text-indent:30px;
+	} /* Changes Nav. Section color */
+#navigation {
+	height: 10em;
+	margin-bottom: 1em;
+	color:#ffe595;
+	list-style-type:upper-roman;
+	}
+#list {
+	background-color:hsl(55,50%,50%);
+	list-style-type:circle;
+	
+	} /* Changes List Color*/
+#title {
+	background-color:#FFCF73;
+	} /* Duplicates the color to make it brighter for title */
+
+
+
+	
